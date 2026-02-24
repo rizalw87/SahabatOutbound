@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Beranda -->
+  <url>
+    <loc>https://sahabatoutbound.com/</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://sahabatoutbound.com/assets/hero-bg.svg</image:loc>
+      <image:title>Kegiatan outbound perusahaan di Malang</image:title>
+      <image:caption>Sahabat Outbound Malang - Jasa outbound perusahaan profesional</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Tentang Kami -->
+  <url>
+    <loc>https://sahabatoutbound.com/about.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://sahabatoutbound.com/assets/about-team.svg</image:loc>
+      <image:title>Tim Sahabat Outbound Malang</image:title>
+      <image:caption>Tim profesional Sahabat Outbound yang berpengalaman</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://sahabatoutbound.com/blog.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Detail Pages -->
+  <url>
+    <loc>https://sahabatoutbound.com/blog-manfaat-outbound-produktivitas.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sahabatoutbound.com/blog-pilih-provider-outbound-malang.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sahabatoutbound.com/blog-team-building-vs-bonding.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sahabatoutbound.com/blog-lokasi-outbound-malang-raya.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sahabatoutbound.com/blog-roi-outbound-perusahaan.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sahabatoutbound.com/blog-tren-outbound-2026.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

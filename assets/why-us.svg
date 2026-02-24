@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2a3a"/>
+      <stop offset="100%" style="stop-color:#0a1628"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <polygon points="0,315 120,180 210,247.50000000000003 300,135 420,225 510,157.5 600,270 600,450 0,450" fill="rgba(0,229,255,0.06)"/>
+  <text x="300" y="220" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="rgba(0,229,255,0.4)">WHY US</text>
+  <text x="300" y="241.8" text-anchor="middle" font-family="sans-serif" font-size="12" fill="rgba(255,255,255,0.2)">Instructor Team</text>
+</svg>

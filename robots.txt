@@ -1,0 +1,40 @@
+# robots.txt - Sahabat Outbound Malang
+# https://sahabatoutbound.com/
+
+User-agent: *
+Allow: /
+Disallow: /assets/favicon-*
+
+# Sitemap
+Sitemap: https://sahabatoutbound.com/sitemap.xml
+
+# Crawl-delay (optional, respected by some bots)
+Crawl-delay: 1
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Google Image
+User-agent: Googlebot-Image
+Allow: /assets/
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# AI Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
